@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/img/home.png</file>
+        <file>res/icon.ico</file>
+        <file>res/img/tet.png</file>
+        <file>res/img/background.jpg</file>
+        <file>res/img/about.png</file>
+        <file>res/img/instructions.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>res/sound/drop.wav</file>
+        <file>res/sound/money.wav</file>
+        <file>res/sound/music.mp3</file>
+    </qresource>
+</RCC>
